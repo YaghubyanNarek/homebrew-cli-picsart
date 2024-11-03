@@ -3,7 +3,7 @@ require "language/node"
 class CliPicsart < Formula
   desc "CLI tool for interacting with the Picsart API"
   homepage "https://github.com/YaghubyanNarek/cli-picsart"
-  url "https://github.com/YaghubyanNarek/cli-picsart/archive/refs/tags/v1.0.0.tar.gz"
+  url "https://github.com/YaghubyanNarek/cli-picsart/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "4006905ed4c9882937cbfa4dc0362061e2c8c591e501b04f6d620abc58b1a4fe"
 
   # Specify the dependency on Node.js
