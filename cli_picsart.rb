@@ -4,7 +4,7 @@ class CliPicsart < Formula
   desc "CLI tool for interacting with the Picsart API"
   homepage "https://github.com/YaghubyanNarek/cli-picsart"
   url "https://github.com/YaghubyanNarek/cli-picsart/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "e9374cb410207bbc1b419f120f7cf1bc2dd192296a02295debb0723962d38e37"
+  sha256 "4006905ed4c9882937cbfa4dc0362061e2c8c591e501b04f6d620abc58b1a4fe"
 
   # Specify the dependency on Node.js
   depends_on "node"
